@@ -1,4 +1,4 @@
-<h1>PYTHON TROM WALLET</h1>
+<h1>PYTHON TRON WALLET</h1>
 <p>this is a tron wallet but on your CMD, this tool can create or generate TRX(TRON) wallets, recieve and send TRX, see Account Balance</p>
 
 <h2>How to Start Using</h2>
